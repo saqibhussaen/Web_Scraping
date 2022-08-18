@@ -1,0 +1,11 @@
+The file KAG_conversion_data.csv (found in the above link)  contains 1143 observations in 11 variables. This satisfies the constraint in our assignment having over a thousand observations with at least ten attributes.
+
+Business Questions
+
+1. How to optimize the social ad campaigns for the highest conversion rate possible? (Attain best Reach to Conversion ratios/Click to Conversion ratios)
+
+2. Finding the perfect target demographics with the appropriate click through rates
+
+3. Understanding the ideal turnaround/decision making time per age group to convert and re-target future social campaigns
+
+4. Comparing the individual campaign performance so the best creative/campaign can be run again with adjusted audiences.
